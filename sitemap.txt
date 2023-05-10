@@ -1,3 +1,3 @@
-http://example.com/2023/05/10/gg/
+http://example.com/2023/05/10/Java%E7%AC%94%E8%AE%B0/
 http://example.com/2023/05/04/hello-world/
 http://example.com/
